@@ -1,0 +1,42 @@
+#######################################
+# Syntax Coloring Map For CuBeX_2.0
+####################################### 
+# Class
+#######################################
+
+tempo	KEYWORD1
+mossa	KEYWORD1
+mosse	KEYWORD1
+errore	KEYWORD1
+start	KEYWORD1
+af_W	KEYWORD1
+af_Y	KEYWORD1
+af_G	KEYWORD1
+af_B	KEYWORD1
+af_R	KEYWORD1
+af_O	KEYWORD1
+servo_1	KEYWORD1
+servo_2	KEYWORD1
+servo_3	KEYWORD1
+servo_4	KEYWORD1
+servo_op	KEYWORD1
+servo_cl	KEYWORD1
+stepper_UD	KEYWORD1
+stepper_RL	KEYWORD1
+stepper_FB	KEYWORD1
+stepper_RPM	KEYWORD1
+stepper_LUN	KEYWORD1
+step_CUS	KEYWORD1
+step_U	KEYWORD1
+step_D	KEYWORD1
+step_R	KEYWORD1
+step_L	KEYWORD1
+step_F	KEYWORD1
+
+#######################################
+# Methods and Functions 
+#######################################	
+
+#######################################
+# Constants
+#######################################
