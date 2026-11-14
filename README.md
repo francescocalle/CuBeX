@@ -16,13 +16,13 @@ La libreria è divisa in tre macro-sezioni:
 
 Test eseguiti equamente su 750 cubi.
 
-| Versione | Metodo utilizzato | Media delle mosse | Mosse minime | Mosse massime | Tempo di calcolo |
-| --- | --- | ---: | ---: | ---: | ---: |
-| **CuBeX_1.0** | Strati | ~136,70 | ~72 | ~198 | ~5ms |
-| **CuBeX_2.0** | Strati - Fridrich | ~87,37 | ~48 | ~114 | ~5ms |
-| **CuBeX_3.0** | Kociemba a due fasi in RAM | ~20,86 | ~17 | ~23 | ~12,80s |
-| **CuBeX_3.0_DualCore** | Kociemba a due fasi in flash a 2 core (esp32 a 2 core) | ~19,87 | ~16 | ~22 | ~2,85s |
-| **CuBeX_4.0** | In fase di elaborazione... | — | — | — | — |
+| Versione | Metodo utilizzato | Media delle mosse | Mosse minime | Mosse massime | Tempo di calcolo | Miglioramento medio mosse |
+| --- | --- | ---: | ---: | ---: | ---: | ---: |
+| **CuBeX_1.0** | Strati | ~136,70 | ~72 | ~198 | ~5ms | — |
+| **CuBeX_2.0** | Strati - Fridrich | ~87,37 | ~48 | ~114 | ~5ms | 36,0% |
+| **CuBeX_3.0** | Kociemba a due fasi in RAM | ~20,86 | ~17 | ~23 | ~12,80s | 76,1% |
+| **CuBeX_3.0_DualCore** | Kociemba a due fasi in flash a 2 core (esp32 a 2 core) | ~19,87 | ~16 | ~22 | ~2,85s | 4,7% |
+| **CuBeX_4.0** | In fase di elaborazione... | — | — | — | — | — |
 
 ### Compatibilità
 
@@ -51,13 +51,13 @@ CuBeX.h is divided into three macro sections:
 
 Tests performed fairly on 750 cubes.
 
-| Version | Method used | Average moves | Minimum moves | Maximum moves | Computation time |
-| --- | --- | ---: | ---: | ---: | ---: |
-| **CuBeX_1.0** | Layer-by-Layer | ~136.70 | ~72 | ~198 | ~5ms |
-| **CuBeX_2.0** | Layer-by-Layer – Fridrich | ~87.37 | ~48 | ~114 | ~5ms |
-| **CuBeX_3.0** | Two-Phase Kociemba in RAM | ~20.86 | ~17 | ~23 | ~12.80s |
-| **CuBeX_3.0_DualCore** | Two-Phase Kociemba in flash using 2 cores (dual-core ESP32) | ~19.87 | ~16 | ~22 | ~2.85s |
-| **CuBeX_4.0** | Under development... | — | — | — | — |
+| Version | Method used | Average moves | Minimum moves | Maximum moves | Computation time | Average move reduction |
+| --- | --- | ---: | ---: | ---: | ---: | ---: |
+| **CuBeX_1.0** | Layer-by-Layer | ~136.70 | ~72 | ~198 | ~5ms | — |
+| **CuBeX_2.0** | Layer-by-Layer – Fridrich | ~87.37 | ~48 | ~114 | ~5ms | 36.0% |
+| **CuBeX_3.0** | Two-Phase Kociemba in RAM | ~20.86 | ~17 | ~23 | ~12.80s | 76.1% |
+| **CuBeX_3.0_DualCore** | Two-Phase Kociemba in flash using 2 cores (dual-core ESP32) | ~19.87 | ~16 | ~22 | ~2.85s | 4.7% |
+| **CuBeX_4.0** | Under development... | — | — | — | — | — |
 
 ### Compatibility
 
