@@ -26,10 +26,10 @@ Test eseguiti equamente su 750 cubi.
 
 | Versione | RAM | ROM | Core 1 | Core 2 |
 | --- | --- | --- | --- | --- |
-| **CuBeX_1.0** | Nullo | Basso | Medio | Massimo |
-| **CuBeX_2.0** | Nullo | Basso | Medio | Massimo |
-| **CuBeX_3.0** | Nullo | Basso | Medio | Massimo |
-| **CuBeX_3.0_DualCore** | Nullo | Basso | Medio | Massimo |
+| **CuBeX_1.0** | Basso | Medio | Medio | Nullo |
+| **CuBeX_2.0** | Basso | Medio | Medio | Nullo |
+| **CuBeX_3.0** | Alto | Basso | Alto | Nullo |
+| **CuBeX_3.0_DualCore** | Basso | Alto | Alto | Alto |
 | **CuBeX_4.0** | — | — | — | — |
 
 ### Compatibilità
