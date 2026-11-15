@@ -26,10 +26,10 @@ Test eseguiti equamente su 750 cubi.
 
 | Versione | RAM | ROM | Core 1 | Core 2 |
 | --- | --- | --- | --- | --- |
-| **CuBeX_1.0** | Basso | Medio | Medio | Nullo |
-| **CuBeX_2.0** | Basso | Medio | Medio | Nullo |
-| **CuBeX_3.0** | Alto | Basso | Alto | Nullo |
-| **CuBeX_3.0_DualCore** | Basso | Alto | Alto | Alto |
+| **CuBeX_1.0** | ![Basso](assets/badges/basso.svg) | ![Medio](assets/badges/medio.svg) | ![Medio](assets/badges/medio.svg) | ![Nullo](assets/badges/nullo.svg) |
+| **CuBeX_2.0** | ![Basso](assets/badges/basso.svg) | ![Medio](assets/badges/medio.svg) | ![Medio](assets/badges/medio.svg) | ![Nullo](assets/badges/nullo.svg) |
+| **CuBeX_3.0** | ![Alto](assets/badges/alto.svg) | ![Basso](assets/badges/basso.svg) | ![Alto](assets/badges/alto.svg) | ![Nullo](assets/badges/nullo.svg) |
+| **CuBeX_3.0_DualCore** | ![Basso](assets/badges/basso.svg) | ![Alto](assets/badges/alto.svg) | ![Alto](assets/badges/alto.svg) | ![Alto](assets/badges/alto.svg) |
 | **CuBeX_4.0** | — | — | — | — |
 
 ### Compatibilità
@@ -69,10 +69,10 @@ Tests performed fairly on 750 cubes.
 
 | Version | RAM | ROM | Core 1 | Core 2 |
 | --- | --- | --- | --- | --- |
-| **CuBeX_1.0** | Low | Medium | Medium | None |
-| **CuBeX_2.0** | Low | Medium | Medium | None |
-| **CuBeX_3.0** | High | Low | High | None |
-| **CuBeX_3.0_DualCore** | Low | High | High | High |
+| **CuBeX_1.0** | ![Low](assets/badges/low.svg) | ![Medium](assets/badges/medium.svg) | ![Medium](assets/badges/medium.svg) | ![None](assets/badges/none.svg) |
+| **CuBeX_2.0** | ![Low](assets/badges/low.svg) | ![Medium](assets/badges/medium.svg) | ![Medium](assets/badges/medium.svg) | ![None](assets/badges/none.svg) |
+| **CuBeX_3.0** | ![High](assets/badges/high.svg) | ![Low](assets/badges/low.svg) | ![High](assets/badges/high.svg) | ![None](assets/badges/none.svg) |
+| **CuBeX_3.0_DualCore** | ![Low](assets/badges/low.svg) | ![High](assets/badges/high.svg) | ![High](assets/badges/high.svg) | ![High](assets/badges/high.svg) |
 | **CuBeX_4.0** | — | — | — | — |
 
 ### Compatibility
