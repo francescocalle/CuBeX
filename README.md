@@ -24,6 +24,14 @@ Test eseguiti equamente su 750 cubi.
 | **CuBeX_3.0_DualCore** | Kociemba a due fasi in flash a 2 core (esp32 a 2 core) | ~19,87 | ~16 | ~22 | ~2,85s | +4,7% |
 | **CuBeX_4.0** | In fase di elaborazione... | — | — | — | — | — |
 
+| Versione | RAM | ROM | Core 1 | Core 2 |
+| --- | --- | --- | --- | --- |
+| **CuBeX_1.0** | 🩵 Nullo | 🟩 Basso | 🟨 Medio | 🟥 Massimo |
+| **CuBeX_2.0** | 🩵 Nullo | 🟩 Basso | 🟨 Medio | 🟥 Massimo |
+| **CuBeX_3.0** | 🩵 Nullo | 🟩 Basso | 🟨 Medio | 🟥 Massimo |
+| **CuBeX_3.0_DualCore** | 🩵 Nullo | 🟩 Basso | 🟨 Medio | 🟥 Massimo |
+| **CuBeX_4.0** | 🩵 Nullo | 🟩 Basso | 🟨 Medio | 🟥 Massimo |
+
 ### Compatibilità
 
 CuBeX.h è compatibile solo con:
@@ -58,6 +66,14 @@ Tests performed fairly on 750 cubes.
 | **CuBeX_3.0** | Two-Phase Kociemba in RAM | ~20.86 | ~17 | ~23 | ~12.80s | +76.1% |
 | **CuBeX_3.0_DualCore** | Two-Phase Kociemba in flash using 2 cores (dual-core ESP32) | ~19.87 | ~16 | ~22 | ~2.85s | +4.7% |
 | **CuBeX_4.0** | Under development... | — | — | — | — | — |
+
+| Version | RAM | ROM | Core 1 | Core 2 |
+| --- | --- | --- | --- | --- |
+| **CuBeX_1.0** | 🩵 None | 🟩 Low | 🟨 Medium | 🟥 Maximum |
+| **CuBeX_2.0** | 🩵 None | 🟩 Low | 🟨 Medium | 🟥 Maximum |
+| **CuBeX_3.0** | 🩵 None | 🟩 Low | 🟨 Medium | 🟥 Maximum |
+| **CuBeX_3.0_DualCore** | 🩵 None | 🟩 Low | 🟨 Medium | 🟥 Maximum |
+| **CuBeX_4.0** | 🩵 None | 🟩 Low | 🟨 Medium | 🟥 Maximum |
 
 ### Compatibility
 
