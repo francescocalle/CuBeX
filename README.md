@@ -69,10 +69,10 @@ Tests performed fairly on 750 cubes.
 
 | Version | RAM | ROM | Core 1 | Core 2 |
 | --- | --- | --- | --- | --- |
-| **CuBeX_1.0** | None | Low | Medium | Maximum |
-| **CuBeX_2.0** | None | Low | Medium | Maximum |
-| **CuBeX_3.0** | None | Low | Medium | Maximum |
-| **CuBeX_3.0_DualCore** | None | Low | Medium | Maximum |
+| **CuBeX_1.0** | Low | Medium | Medium | None |
+| **CuBeX_2.0** | Low | Medium | Medium | None |
+| **CuBeX_3.0** | High | Low | High | None |
+| **CuBeX_3.0_DualCore** | Low | High | High | High |
 | **CuBeX_4.0** | — | — | — | — |
 
 ### Compatibility
