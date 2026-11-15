@@ -26,11 +26,11 @@ Test eseguiti equamente su 750 cubi.
 
 | Versione | RAM | ROM | Core 1 | Core 2 |
 | --- | --- | --- | --- | --- |
-| **CuBeX_1.0** | 🩵 Nullo | 🟩 Basso | 🟨 Medio | 🟥 Massimo |
-| **CuBeX_2.0** | 🩵 Nullo | 🟩 Basso | 🟨 Medio | 🟥 Massimo |
-| **CuBeX_3.0** | 🩵 Nullo | 🟩 Basso | 🟨 Medio | 🟥 Massimo |
-| **CuBeX_3.0_DualCore** | 🩵 Nullo | 🟩 Basso | 🟨 Medio | 🟥 Massimo |
-| **CuBeX_4.0** | 🩵 Nullo | 🟩 Basso | 🟨 Medio | 🟥 Massimo |
+| **CuBeX_1.0** | <mark>Nullo</mark> | <mark>Basso</mark> | <mark>Medio</mark> | <mark>Massimo</mark> |
+| **CuBeX_2.0** | <mark>Nullo</mark> | <mark>Basso</mark> | <mark>Medio</mark> | <mark>Massimo</mark> |
+| **CuBeX_3.0** | <mark>Nullo</mark> | <mark>Basso</mark> | <mark>Medio</mark> | <mark>Massimo</mark> |
+| **CuBeX_3.0_DualCore** | <mark>Nullo</mark> | <mark>Basso</mark> | <mark>Medio</mark> | <mark>Massimo</mark> |
+| **CuBeX_4.0** | <mark>Nullo</mark> | <mark>Basso</mark> | <mark>Medio</mark> | <mark>Massimo</mark> |
 
 ### Compatibilità
 
@@ -69,11 +69,11 @@ Tests performed fairly on 750 cubes.
 
 | Version | RAM | ROM | Core 1 | Core 2 |
 | --- | --- | --- | --- | --- |
-| **CuBeX_1.0** | 🩵 None | 🟩 Low | 🟨 Medium | 🟥 Maximum |
-| **CuBeX_2.0** | 🩵 None | 🟩 Low | 🟨 Medium | 🟥 Maximum |
-| **CuBeX_3.0** | 🩵 None | 🟩 Low | 🟨 Medium | 🟥 Maximum |
-| **CuBeX_3.0_DualCore** | 🩵 None | 🟩 Low | 🟨 Medium | 🟥 Maximum |
-| **CuBeX_4.0** | 🩵 None | 🟩 Low | 🟨 Medium | 🟥 Maximum |
+| **CuBeX_1.0** | <mark>None</mark> | <mark>Low</mark> | <mark>Medium</mark> | <mark>Maximum</mark> |
+| **CuBeX_2.0** | <mark>None</mark> | <mark>Low</mark> | <mark>Medium</mark> | <mark>Maximum</mark> |
+| **CuBeX_3.0** | <mark>None</mark> | <mark>Low</mark> | <mark>Medium</mark> | <mark>Maximum</mark> |
+| **CuBeX_3.0_DualCore** | <mark>None</mark> | <mark>Low</mark> | <mark>Medium</mark> | <mark>Maximum</mark> |
+| **CuBeX_4.0** | <mark>None</mark> | <mark>Low</mark> | <mark>Medium</mark> | <mark>Maximum</mark> |
 
 ### Compatibility
 
