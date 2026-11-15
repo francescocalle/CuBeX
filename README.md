@@ -26,11 +26,11 @@ Test eseguiti equamente su 750 cubi.
 
 | Versione | RAM | ROM | Core 1 | Core 2 |
 | --- | --- | --- | --- | --- |
-| **CuBeX_1.0** | <mark>Nullo</mark> | <mark>Basso</mark> | <mark>Medio</mark> | <mark>Massimo</mark> |
-| **CuBeX_2.0** | <mark>Nullo</mark> | <mark>Basso</mark> | <mark>Medio</mark> | <mark>Massimo</mark> |
-| **CuBeX_3.0** | <mark>Nullo</mark> | <mark>Basso</mark> | <mark>Medio</mark> | <mark>Massimo</mark> |
-| **CuBeX_3.0_DualCore** | <mark>Nullo</mark> | <mark>Basso</mark> | <mark>Medio</mark> | <mark>Massimo</mark> |
-| **CuBeX_4.0** | <mark>Nullo</mark> | <mark>Basso</mark> | <mark>Medio</mark> | <mark>Massimo</mark> |
+| **CuBeX_1.0** | ![Nullo](https://img.shields.io/badge/Nullo-00AEEF?style=for-the-badge&labelColor=0A7AB8&color=5CC8FF) | ![Basso](https://img.shields.io/badge/Basso-2ECC71?style=for-the-badge&labelColor=1C8E4C&color=5AD57D) | ![Medio](https://img.shields.io/badge/Medio-F4C542?style=for-the-badge&labelColor=C79600&color=F7D870) | ![Massimo](https://img.shields.io/badge/Massimo-E74C3C?style=for-the-badge&labelColor=B83A2E&color=F07F73) |
+| **CuBeX_2.0** | ![Nullo](https://img.shields.io/badge/Nullo-00AEEF?style=for-the-badge&labelColor=0A7AB8&color=5CC8FF) | ![Basso](https://img.shields.io/badge/Basso-2ECC71?style=for-the-badge&labelColor=1C8E4C&color=5AD57D) | ![Medio](https://img.shields.io/badge/Medio-F4C542?style=for-the-badge&labelColor=C79600&color=F7D870) | ![Massimo](https://img.shields.io/badge/Massimo-E74C3C?style=for-the-badge&labelColor=B83A2E&color=F07F73) |
+| **CuBeX_3.0** | ![Nullo](https://img.shields.io/badge/Nullo-00AEEF?style=for-the-badge&labelColor=0A7AB8&color=5CC8FF) | ![Basso](https://img.shields.io/badge/Basso-2ECC71?style=for-the-badge&labelColor=1C8E4C&color=5AD57D) | ![Medio](https://img.shields.io/badge/Medio-F4C542?style=for-the-badge&labelColor=C79600&color=F7D870) | ![Massimo](https://img.shields.io/badge/Massimo-E74C3C?style=for-the-badge&labelColor=B83A2E&color=F07F73) |
+| **CuBeX_3.0_DualCore** | ![Nullo](https://img.shields.io/badge/Nullo-00AEEF?style=for-the-badge&labelColor=0A7AB8&color=5CC8FF) | ![Basso](https://img.shields.io/badge/Basso-2ECC71?style=for-the-badge&labelColor=1C8E4C&color=5AD57D) | ![Medio](https://img.shields.io/badge/Medio-F4C542?style=for-the-badge&labelColor=C79600&color=F7D870) | ![Massimo](https://img.shields.io/badge/Massimo-E74C3C?style=for-the-badge&labelColor=B83A2E&color=F07F73) |
+| **CuBeX_4.0** | ![Nullo](https://img.shields.io/badge/Nullo-00AEEF?style=for-the-badge&labelColor=0A7AB8&color=5CC8FF) | ![Basso](https://img.shields.io/badge/Basso-2ECC71?style=for-the-badge&labelColor=1C8E4C&color=5AD57D) | ![Medio](https://img.shields.io/badge/Medio-F4C542?style=for-the-badge&labelColor=C79600&color=F7D870) | ![Massimo](https://img.shields.io/badge/Massimo-E74C3C?style=for-the-badge&labelColor=B83A2E&color=F07F73) |
 
 ### Compatibilità
 
@@ -69,11 +69,11 @@ Tests performed fairly on 750 cubes.
 
 | Version | RAM | ROM | Core 1 | Core 2 |
 | --- | --- | --- | --- | --- |
-| **CuBeX_1.0** | <mark>None</mark> | <mark>Low</mark> | <mark>Medium</mark> | <mark>Maximum</mark> |
-| **CuBeX_2.0** | <mark>None</mark> | <mark>Low</mark> | <mark>Medium</mark> | <mark>Maximum</mark> |
-| **CuBeX_3.0** | <mark>None</mark> | <mark>Low</mark> | <mark>Medium</mark> | <mark>Maximum</mark> |
-| **CuBeX_3.0_DualCore** | <mark>None</mark> | <mark>Low</mark> | <mark>Medium</mark> | <mark>Maximum</mark> |
-| **CuBeX_4.0** | <mark>None</mark> | <mark>Low</mark> | <mark>Medium</mark> | <mark>Maximum</mark> |
+| **CuBeX_1.0** | ![None](https://img.shields.io/badge/None-00AEEF?style=for-the-badge&labelColor=0A7AB8&color=5CC8FF) | ![Low](https://img.shields.io/badge/Low-2ECC71?style=for-the-badge&labelColor=1C8E4C&color=5AD57D) | ![Medium](https://img.shields.io/badge/Medium-F4C542?style=for-the-badge&labelColor=C79600&color=F7D870) | ![Maximum](https://img.shields.io/badge/Maximum-E74C3C?style=for-the-badge&labelColor=B83A2E&color=F07F73) |
+| **CuBeX_2.0** | ![None](https://img.shields.io/badge/None-00AEEF?style=for-the-badge&labelColor=0A7AB8&color=5CC8FF) | ![Low](https://img.shields.io/badge/Low-2ECC71?style=for-the-badge&labelColor=1C8E4C&color=5AD57D) | ![Medium](https://img.shields.io/badge/Medium-F4C542?style=for-the-badge&labelColor=C79600&color=F7D870) | ![Maximum](https://img.shields.io/badge/Maximum-E74C3C?style=for-the-badge&labelColor=B83A2E&color=F07F73) |
+| **CuBeX_3.0** | ![None](https://img.shields.io/badge/None-00AEEF?style=for-the-badge&labelColor=0A7AB8&color=5CC8FF) | ![Low](https://img.shields.io/badge/Low-2ECC71?style=for-the-badge&labelColor=1C8E4C&color=5AD57D) | ![Medium](https://img.shields.io/badge/Medium-F4C542?style=for-the-badge&labelColor=C79600&color=F7D870) | ![Maximum](https://img.shields.io/badge/Maximum-E74C3C?style=for-the-badge&labelColor=B83A2E&color=F07F73) |
+| **CuBeX_3.0_DualCore** | ![None](https://img.shields.io/badge/None-00AEEF?style=for-the-badge&labelColor=0A7AB8&color=5CC8FF) | ![Low](https://img.shields.io/badge/Low-2ECC71?style=for-the-badge&labelColor=1C8E4C&color=5AD57D) | ![Medium](https://img.shields.io/badge/Medium-F4C542?style=for-the-badge&labelColor=C79600&color=F7D870) | ![Maximum](https://img.shields.io/badge/Maximum-E74C3C?style=for-the-badge&labelColor=B83A2E&color=F07F73) |
+| **CuBeX_4.0** | ![None](https://img.shields.io/badge/None-00AEEF?style=for-the-badge&labelColor=0A7AB8&color=5CC8FF) | ![Low](https://img.shields.io/badge/Low-2ECC71?style=for-the-badge&labelColor=1C8E4C&color=5AD57D) | ![Medium](https://img.shields.io/badge/Medium-F4C542?style=for-the-badge&labelColor=C79600&color=F7D870) | ![Maximum](https://img.shields.io/badge/Maximum-E74C3C?style=for-the-badge&labelColor=B83A2E&color=F07F73) |
 
 ### Compatibility
 
