@@ -32,11 +32,11 @@ Test eseguiti equamente su 750 cubi.
 
 | Versione | RAM | ROM | Core 1 | Core 2 |
 | --- | --- | --- | --- | --- |
-| **CuBeX_1.0** | ![Basso](assets/badges/basso.svg) | ![Medio](assets/badges/medio.svg) | ![Medio](assets/badges/medio.svg) | ![Nullo](assets/badges/Nullo.svg) |
+| **CuBeX_1.0** | ![Basso](assets/badges/basso.svg) | ![Medio](assets/badges/medio.svg) | ![Medio](assets/badges/medio.svg) | ![Nullo](assets/badges/nullo.svg) |
 | **CuBeX_2.0** | ![Basso](assets/badges/basso.svg) | ![Medio](assets/badges/medio.svg) | ![Medio](assets/badges/medio.svg) | ![Nullo](assets/badges/nullo.svg) |
 | **CuBeX_3.0** | ![Alto](assets/badges/alto.svg) | ![Basso](assets/badges/basso.svg) | ![Alto](assets/badges/alto.svg) | ![Nullo](assets/badges/nullo.svg) |
 | **CuBeX_3.0_DualCore** | ![Basso](assets/badges/basso.svg) | ![Alto](assets/badges/alto.svg) | ![Alto](assets/badges/alto.svg) | ![Alto](assets/badges/alto.svg) |
-| **CuBeX_4.0** | ![Alto](assets/badges/alto.svg) | ![Alto](assets/badges/alto.svg) | ![Alto](assets/badges/alto.svg) | ![Nullo](assets/badges/Nullo.svg) |
+| **CuBeX_4.0** | ![Alto](assets/badges/alto.svg) | ![Alto](assets/badges/alto.svg) | ![Alto](assets/badges/alto.svg) | ![Nullo](assets/badges/nullo.svg) |
 | **CuBeX_4.0_DualCore** | ![Alto](assets/badges/alto.svg) | ![Alto](assets/badges/alto.svg) | ![Alto](assets/badges/alto.svg) | ![Alto](assets/badges/alto.svg) |
 
 ### Compatibilità hardware
