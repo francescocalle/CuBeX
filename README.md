@@ -25,8 +25,8 @@ Test eseguiti equamente su 750 cubi.
 | **CuBeX_2.0** | Strati - Fridrich | ~87,37 | ~48 | ~114 | ~5ms | +36,0% |
 | **CuBeX_3.0** | Kociemba a due fasi in RAM | ~20,86 | ~17 | ~23 | ~12,80s | +76,1% |
 | **CuBeX_3.0_DualCore** | Kociemba a due fasi in flash a 2 core | ~19,87 | ~16 | ~22 | ~2,85s | +4,7% |
-| **CuBeX_4.0** | Kociemba a due fasi in flash a 1 core (con RAM) | ~19,38 | ~15 | ~22 | ~2,62 | +0,0% |
-| **CuBeX_4.0_DualCore** | Kociemba a due fasi in flash a 2 core (con RAM) | ~19,33 | ~14 | ~22 | ~2,46 | +0,0% |
+| **CuBeX_4.0** | Kociemba a due fasi in flash a 1 core (con RAM) | ~19,38 | ~15 | ~22 | ~2,62s | +2,5% |
+| **CuBeX_4.0_DualCore** | Kociemba a due fasi in flash a 2 core (con RAM) | ~19,33 | ~14 | ~22 | ~2,46s | +0,3% |
 
 ### Impiego delle risorse
 
@@ -70,7 +70,8 @@ Tests performed fairly on 750 cubes.
 | **CuBeX_2.0** | Layer-by-Layer – Fridrich | ~87.37 | ~48 | ~114 | ~5ms | +36.0% |
 | **CuBeX_3.0** | Two-Phase Kociemba in RAM | ~20.86 | ~17 | ~23 | ~12.80s | +76.1% |
 | **CuBeX_3.0_DualCore** | Two-Phase Kociemba in flash using 2 cores (dual-core ESP32) | ~19.87 | ~16 | ~22 | ~2.85s | +4.7% |
-| **CuBeX_4.0** | Under development... | — | — | — | — | — |
+| **CuBeX_4.0** | Two-Phase Kociemba in flash using 1 core (with RAM) | ~19.38 | ~15 | ~22 | ~2.62s | +2.5% |
+| **CuBeX_4.0_DualCore** | Two-Phase Kociemba in flash using 2 cores (with RAM) | ~19.33 | ~14 | ~22 | ~2.46s | +0.3% |
 
 ### Resource usage
 
@@ -80,7 +81,8 @@ Tests performed fairly on 750 cubes.
 | **CuBeX_2.0** | ![Low](assets/badges/low.svg) | ![Medium](assets/badges/medium.svg) | ![Medium](assets/badges/medium.svg) | ![None](assets/badges/none.svg) |
 | **CuBeX_3.0** | ![High](assets/badges/high.svg) | ![Low](assets/badges/low.svg) | ![High](assets/badges/high.svg) | ![None](assets/badges/none.svg) |
 | **CuBeX_3.0_DualCore** | ![Low](assets/badges/low.svg) | ![High](assets/badges/high.svg) | ![High](assets/badges/high.svg) | ![High](assets/badges/high.svg) |
-| **CuBeX_4.0** | — | — | — | — |
+| **CuBeX_4.0** | ![High](assets/badges/high.svg) | ![High](assets/badges/high.svg) | ![High](assets/badges/high.svg) | ![None](assets/badges/none.svg) |
+| **CuBeX_4.0_DualCore** | ![High](assets/badges/high.svg) | ![High](assets/badges/high.svg) | ![High](assets/badges/high.svg) | ![High](assets/badges/high.svg) |
 
 ### Hardware compatibility
 
