@@ -24,18 +24,20 @@ Test eseguiti equamente su 750 cubi.
 | **CuBeX_1.0** | Strati | ~136,70 | ~72 | ~198 | ~5ms | — |
 | **CuBeX_2.0** | Strati - Fridrich | ~87,37 | ~48 | ~114 | ~5ms | +36,0% |
 | **CuBeX_3.0** | Kociemba a due fasi in RAM | ~20,86 | ~17 | ~23 | ~12,80s | +76,1% |
-| **CuBeX_3.0_DualCore** | Kociemba a due fasi in flash a 2 core (esp32 a 2 core) | ~19,87 | ~16 | ~22 | ~2,85s | +4,7% |
-| **CuBeX_4.0** | In fase di elaborazione... | — | — | — | — | — |
+| **CuBeX_3.0_DualCore** | Kociemba a due fasi in flash a 2 core | ~19,87 | ~16 | ~22 | ~2,85s | +4,7% |
+| **CuBeX_4.0** | Kociemba a due fasi in flash a 1 core (con RAM) | ~19,38 | ~15 | ~22 | ~2,62 | +0,0% |
+| **CuBeX_4.0_DualCore** | Kociemba a due fasi in flash a 2 core (con RAM) | ~19,33 | ~14 | ~22 | ~2,46 | +0,0% |
 
 ### Impiego delle risorse
 
 | Versione | RAM | ROM | Core 1 | Core 2 |
 | --- | --- | --- | --- | --- |
-| **CuBeX_1.0** | ![Basso](assets/badges/basso.svg) | ![Medio](assets/badges/medio.svg) | ![Medio](assets/badges/medio.svg) | ![Nullo](assets/badges/nullo.svg) |
+| **CuBeX_1.0** | ![Basso](assets/badges/basso.svg) | ![Medio](assets/badges/medio.svg) | ![Medio](assets/badges/medio.svg) | ![Nullo](assets/badges/Nullo.svg) |
 | **CuBeX_2.0** | ![Basso](assets/badges/basso.svg) | ![Medio](assets/badges/medio.svg) | ![Medio](assets/badges/medio.svg) | ![Nullo](assets/badges/nullo.svg) |
 | **CuBeX_3.0** | ![Alto](assets/badges/alto.svg) | ![Basso](assets/badges/basso.svg) | ![Alto](assets/badges/alto.svg) | ![Nullo](assets/badges/nullo.svg) |
 | **CuBeX_3.0_DualCore** | ![Basso](assets/badges/basso.svg) | ![Alto](assets/badges/alto.svg) | ![Alto](assets/badges/alto.svg) | ![Alto](assets/badges/alto.svg) |
-| **CuBeX_4.0** | — | — | — | — |
+| **CuBeX_4.0** | ![Alto](assets/badges/alto.svg) | ![Alto](assets/badges/alto.svg) | ![Alto](assets/badges/alto.svg) | ![Nullo](assets/badges/Nullo.svg) |
+| **CuBeX_4.0_DualCore** | ![Alto](assets/badges/alto.svg) | ![Alto](assets/badges/alto.svg) | ![Alto](assets/badges/alto.svg) | ![Alto](assets/badges/alto.svg) |
 
 ### Compatibilità hardware
 
